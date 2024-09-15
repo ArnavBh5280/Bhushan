@@ -1,5 +1,8 @@
 # Bhushan
-This is my Git Repository 
+Hello Everyone 
 <br>
 Author - Arnav Bhushan
-This is arnav Bhushan through vs hehehe
+<br>
+This is Arnav Bhushan 
+<br>
+Pursuing Btech (AIML) from VIT Bhopal 
